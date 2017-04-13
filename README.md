@@ -1,7 +1,7 @@
 # BitSend Paper Wallet Generator
-JavaScript Client-Side Bitcoin Wallet Generator
+JavaScript Client-Side BitSend Wallet Generator
 
-Now Bitcoin addresses and their corresponding private key can be conveniently 
+Now BitSend addresses and their corresponding private key can be conveniently 
 generated in a web browser.
 
 The bitaddress.org project provides an all-in-one HTML document with embedded
